@@ -1,2 +1,2 @@
 # SCMV
-Source Code Metrics Visualizer (C#)
+Source Code Metrics Visualizer (C#) tool is to provide a comprehensive and intuitive tool that helps developers and end-users tounderstand the complexity of the code-base. Our tool will provide2Dvisualization of the code, including empty lines, commented lines, andactual code. The graphical representation of results will make it easy for end-users to understand the code and help firms to determine thenumber of lines written in the code-base. Additionally, our tool will generate a detailed report, which can be printed in hard copy for furtheranalysis. Our ultimate goal is to improve the quality of software development and make it easier for all stakeholders to understandthecode-base
